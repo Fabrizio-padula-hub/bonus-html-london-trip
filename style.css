@@ -1,5 +1,4 @@
 h1{  
-    font-family: 'Poppins', sans-serif;
     font-size: 50px;
 }
 body{
@@ -12,4 +11,8 @@ body{
 .containerh{
     text-align: center;
     background-color: rgb(208, 208, 208);
+}
+
+.album{
+    border-radius: 50px;
 }
